@@ -1,22 +1,22 @@
 # IPLocator
-#Have to edit
-
+Simple tool to look up IP address informtion quickly form the terminal. 
 - Simply add your IP and get the details like service provider, coordinates, etc.
 
 	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *
 	|                                                                             |
 	|                                                                             |
-	|                                                                             |
-	|                                                                             |
-	|                                                                             |
-	|                                   IPLocator                                 |
+	|                                 IPLocator                                   |
 	|                             - by SkySecCoder                                |
-	|                                                                             |
-	|                                                                             |
 	|                                                                             |
 	|                                                                             |
 	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *
 
-	Enter your IP: 
-
-*** Have to edit.
+# Installation
+'''
+$ pip install termcolor
+$ git clone https://github.com/SkySecCoder/IPLocator.git
+'''
+# Usage
+'''
+python IPLocator.py
+'''
