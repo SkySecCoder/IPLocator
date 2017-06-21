@@ -2,14 +2,12 @@
 Simple tool to look up IP address informtion quickly form the terminal. 
 - Simply add your IP and get the details like service provider, coordinates, etc.
 
-	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *
-	|                                                                             |
-	|                                                                             |
-	|                                 IPLocator                                   |
-	|                             - by SkySecCoder                                |
-	|                                                                             |
-	|                                                                             |
-	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *
+	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *  
+	|                                                                             |  
+	|                                 IPLocator                                   |  
+	|                             - by SkySecCoder                                |  
+	|                                                                             |  
+	* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = *  
 
 # Installation
 ```
