@@ -9,23 +9,27 @@ $ git clone https://github.com/SkySecCoder/IPLocator.git
 # Usage
 ```
 Interactive Mode :
-python IPLocator.py -i
+./IPLocator.py -i
 
 From Terminal:
-python IPLocator.py -a <IP Address 1> <IP Address 2> ..
+./IPLocator.py -a <IP Address 1> <IP Address 2> ..
+
+./IPLocator.py -f <File with IP Addresses> -w <File to write Output>
 ```
 
 # Help banner
 ```
-usage: IPLocator.py [-h] [-a a [a ...]] [-i] [--no-banner]
+usage: IPLocator.py [-h] [-i] [-b] [-f f] [-w w] [-a a [a ...]]
 
 Lookup location of IPaddress.
 
 optional arguments:
   -h, --help            show this help message and exit
+  -i                    Prompt for IP address at runtime
+  -b, --no-banner       Don't print banner
+  -f f                  Read IP addresses from file
+  -w w                  Write output to file
   -a a [a ...], --addr a [a ...]
                         IP Address to lookup
-  -i                    Prompt for IP address at runtime
-  --no-banner           Don't print banner
 ```
 
